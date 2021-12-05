@@ -1,0 +1,21 @@
+{
+    "degrees": [{
+        "school": "Dutchess Community College",
+        "major" : "Commercial Art",
+        "type" : "A.A.S",
+        "yearConf": "2012"
+    },
+    {
+        "school": "Southern New Hampshire University",
+        "major" : "Information Technology",
+        "type" : "B.S",
+        "yearConf": "2019"
+    },
+    {
+        "school": "Boston University",
+        "major" : "Computer Information Systems",
+        "type" : "M.S",
+        "yearConf": "2022"
+    }
+]
+}
